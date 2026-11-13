@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="KINKO MULTIBIZ logo">
+  <circle cx="256" cy="256" r="256" fill="#0a0a0a"/>
+  <circle cx="256" cy="256" r="238" fill="none" stroke="#FFD60A" stroke-width="10"/>
+  <rect x="176" y="72" width="160" height="250" rx="28" fill="#141414" stroke="#FFD60A" stroke-width="14"/>
+  <line x1="226" y1="100" x2="286" y2="100" stroke="#FFD60A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M196 200q15-24 30 0t30 0 30 0 30 0" fill="none" stroke="#2DD4BF" stroke-width="9" stroke-linecap="round"/>
+  <path d="M196 236q15-24 30 0t30 0 30 0 30 0" fill="none" stroke="#2DD4BF" stroke-width="9" stroke-linecap="round" opacity=".55"/>
+  <circle cx="256" cy="298" r="9" fill="#FFD60A"/>
+  <g transform="translate(340 322) rotate(-45)">
+    <rect x="-92" y="-15" width="150" height="30" rx="15" fill="#FFD60A" stroke="#0a0a0a" stroke-width="7" paint-order="stroke"/>
+    <circle cx="62" cy="0" r="36" fill="#FFD60A" stroke="#0a0a0a" stroke-width="7" paint-order="stroke"/>
+    <rect x="64" y="-14" width="52" height="28" fill="#0a0a0a"/>
+  </g>
+  <text x="256" y="458" text-anchor="middle" font-family="Arial Black,Arial,Helvetica,sans-serif" font-weight="900" font-size="50" letter-spacing="3" fill="#FFD60A">KINKO</text>
+</svg>
